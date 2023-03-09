@@ -13,7 +13,7 @@ ChatGPT登录网址 https://chat.openai.com/auth/login
 
 |                 加我拉你入群                  |
 |:--------------------------------------:| 
-| <img src="https://raw.githubusercontent.com/aichaty/awesome-chatgpt-cn/main/image/p.jpg" width="450"/> |
+| <img src="https://raw.githubusercontent.com/aichaty/aichaty-awesome-chatgpt-cn/main/image/p.jpg" width="450"/> |
 
 
 ## ChatGPT能干什么? 
